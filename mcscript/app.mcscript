@@ -1,0 +1,6 @@
+positioned (string) {
+    var slime;
+    var block;
+    var spawner;
+    var mob;
+}
