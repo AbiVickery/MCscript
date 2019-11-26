@@ -4,3 +4,10 @@ positioned (string) {
     var spawner;
     var mob;
 }
+
+anchored (string) {
+    for(from,to) {
+        float = up by 10px;
+        decend = down by 10px;
+    }
+}
