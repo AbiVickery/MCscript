@@ -18,5 +18,6 @@ as (entity) {
         friendly = false;
         canFly = false;
         canMove = true;
+        canShootLasers = false;
     }
 }
