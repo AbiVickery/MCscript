@@ -11,3 +11,12 @@ anchored (string) {
         decend = down by 10px;
     }
 }
+
+as (entity) {
+    behavior (entity) {
+        hostile = true;
+        friendly = false;
+        canFly = false;
+        canMove = true;
+    }
+}
