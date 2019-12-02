@@ -21,3 +21,9 @@ as (entity) {
         canShootLasers = false;
     }
 }
+
+asat (entity) {
+    by (anchored (string) {
+        canFly = false;
+    })
+}
