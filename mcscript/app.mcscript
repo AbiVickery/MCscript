@@ -27,3 +27,4 @@ asat (entity) {
         canFly = false;
     })
 }
+
