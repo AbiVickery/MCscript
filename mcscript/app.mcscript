@@ -28,3 +28,10 @@ asat (entity) {
     })
 }
 
+for(spawner,slime) {
+    as (entity) {
+        hostile = false;
+        // canFly = false;
+    }
+}
+
